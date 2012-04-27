@@ -3,6 +3,7 @@
 class BashFile(object):
 	"""docstring for BashFile
 	This class is to operate the BashFile
+	The file location is ~/.bashrc
 	"""
 	def __init__(self, arg):
 		super(BashFile, self).__init__()
@@ -22,3 +23,12 @@ class BashFile(object):
 
 
 
+
+class Software(object):
+	"""docstring for Software"""
+	def __init__(self, arg):
+		self.arg = arg
+
+
+	def install(self):
+		pass		

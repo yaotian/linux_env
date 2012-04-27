@@ -4,6 +4,8 @@ linux_env
 THis project is to do environment manegement of my linxu env.   
 
 1. automatically update the bash file   
+The bash file locations is: ~/.bashrc  
+
 a. alias  
 b. path  
 
