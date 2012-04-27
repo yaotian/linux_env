@@ -13,3 +13,12 @@ class BashFile(object):
 		pass
 
 
+	def add_alias(self,name,value):
+		pass
+
+
+	def add_path(self,path):
+		pass
+
+
+
