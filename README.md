@@ -17,6 +17,7 @@ The folder containing software is ~/softwares
 
 a. using apt-get install to install   
 b. using wget to download softare and install  
+c. TO install
 
 
 
