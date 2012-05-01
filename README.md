@@ -23,6 +23,6 @@ software List need be installed:
 django 1.3.1    
 curl for sublime 's gist plugin   
 
-
+which tools?
 
 
