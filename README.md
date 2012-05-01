@@ -19,5 +19,6 @@ a. using apt-get install to install
 b. using wget to download softare and install  
 
 
+curl for sublime 's gist plugin
 
 
