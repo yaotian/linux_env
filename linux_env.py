@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+
+
 class BashFile(object):
 	"""docstring for BashFile
 	This class is to operate the BashFile
