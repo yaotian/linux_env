@@ -20,7 +20,10 @@ b. using wget to download softare and install
 c. TO install
 
 
+software List need be installed:
+django 1.3.1
 curl for sublime 's gist plugin
+
 
 
 
