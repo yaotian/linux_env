@@ -6,7 +6,6 @@ class Property():
 	'''
 	This class is to handle property file
 	'''
-	
 	REPLACE_MODE=1
 	APPEND_MODE=2
 	NOMAL_MODE=0
